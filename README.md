@@ -114,25 +114,6 @@ This project uses **Gmail OAuth2** for sending email notifications.
 
 ---
 
-## 🔌 API Endpoints
-
-### Auth Routes
-| Method | Endpoint | Description |
-|---|---|---|
-| POST | `/api/auth/register` | Register a new user |
-| POST | `/api/auth/login` | Login and receive JWT |
-| POST | `/api/auth/logout` | Logout user |
-
-### Transaction Routes
-| Method | Endpoint | Description |
-|---|---|---|
-| POST | `/api/transactions/deposit` | Deposit funds |
-| POST | `/api/transactions/withdraw` | Withdraw funds |
-| POST | `/api/transactions/transfer` | Transfer to another account |
-| GET | `/api/transactions/history` | Get transaction history |
-
----
-
 ## 🔒 Security Features
 
 - Passwords are hashed with **bcryptjs** before storing in the database.
