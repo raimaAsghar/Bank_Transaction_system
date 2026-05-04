@@ -148,7 +148,7 @@ This project uses **Gmail OAuth2** for sending email notifications.
 
 ## 📚 References & Acknowledgements
 
-- Nodemailer OAuth2 setup reference: [Difference-Backend-video by Ankur](https://github.com/ankurdotio/Difference-Backend-video/tree/main/026-nodemailer)
+- Nodemailer OAuth2 setup reference: [Difference-Backend-documentation by Ankur](https://github.com/ankurdotio/Difference-Backend-video/tree/main/026-nodemailer)
 - [Nodemailer Official Documentation](https://nodemailer.com/)
 - [Google OAuth2 Documentation](https://developers.google.com/identity/protocols/oauth2)
 - [OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
